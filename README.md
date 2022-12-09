@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harishpampana7
-- A Passionate Front-End Web Developer from India
+- Full Stack Developer with expertise in MERN stack. Self-starter and curious, with a delicate interest in building user-friendly websites and scalable applications. Anticipating honing skills in a challenging work environment.
 - 🌱 I’m currently learning Data structures, Algorithms and MERN stack
 - 💞️ I’m looking to collaborate on OpenSource Projects
 - 📫 How to reach me: pampanaharish9@gmail.com
