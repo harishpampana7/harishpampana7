@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pampana-harish-15b9ba23a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pampana-harish-15b9ba23a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pampana-harish-15b9ba23a/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80)" alt="https://www.linkedin.com/in/pampana-harish-15b9ba23a/" height="30" width="40" /></a>
 <a href="/https://github.com/harishpampana7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://github.com/harishpampana7" height="30" width="40" /></a>
 </p>
 
