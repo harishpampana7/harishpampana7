@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ### Portfolio
-<a href="https://harishpampana-portfolio.netlify.app/" target="blank"><img align="center" src="https://www.pngfind.com/pngs/m/650-6509799_portfolio-calligraphy-hd-png-download.png" alt="https://harishpampana-portfolio.netlify.app/" height="60" width="80" /></a>
+<a href="https://harishpampana-portfolio.netlify.app/" target="blank"><img align="center" src="https://boss-portal.vistaland.com.ph/wp-content/uploads/2021/10/Portfolio.png" alt="https://harishpampana-portfolio.netlify.app/" height="60" width="80" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
