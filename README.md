@@ -10,6 +10,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/pampana-harish-15b9ba23a/" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGlua2VkaW4lMjBsb2dvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" height="30" width="40" /></a>
 <a href="https://github.com/harishpampana7" target="blank"><img align="center" src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Dark-Background-Logo.wine.svg" alt="https://github.com/harishpampana7" height="30" width="40" /></a>
+<a href="https://harishpampana-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/portfolio-minimal-vector-line-icon-3d-button-isolated-black-background-premium-vector_570929-459.jpg" alt="https://harishpampana-portfolio.netlify.app/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
