@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=harishpampana7&](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/185188120/original/b084c38d746e1cc36e133e7557c06c4e47a45198/create-responsive-websites-using-html-css-javascript-react.jpeg)" alt="Skills" /></p>
+<p><img align="center" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/185188120/original/b084c38d746e1cc36e133e7557c06c4e47a45198/create-responsive-websites-using-html-css-javascript-react.jpeg" alt="Skills" /></p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishpampana7&show_icons=true&locale=en&layout=compact" alt="harishpampana7" /></p>
