@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm H̶̡̤͎̖͇̭̳̪͙̝͆̔̋̐́͌̒͆͜͝͝á̴̧͎̱̞̖͙͔̯̻̙̯̙r̶̨͕̘͉̹̣̻̫̣͒͐̋̃͋̒̐̂i̸̧̹̞͍͗̄͌̈̓͗̐̒̈̽̓̈́͑͜͠s̶̢̛̬͔͔̪͍̤͉̦̞͉͚̈́̂͊̆̏̎͂͗̋̔̔́̚͠h̶̲͔̯͙̹̲͇̖̦̲̳́̈́͜ ̵̛̬͇̓̾̈P̸̝̰̫̗̝͚̣̠͍̬̉̈̊̌͊ạ̵̭̮́̿̏̌͆̒̌m̴̗͖͙͇̝̈́̑͗̄͂̔̆p̶̛̣͍͖̟̲͍͖̭̎̐̈́̍̈́̒͐̽͜͝͝ă̵̬̝͉͚͓͕̫̖̖̟͒̓̍̂̈́̈́́̀̇̌̅̚͠͝n̶̫̺̪͍̺͕̲̲͍̦̑̀̒̚͝ͅa̷̡̡͎͓̤͖̗̲̋̆̒͊̾̀̒̕̕͜ͅ</h1>
 <h3 align="center">Self-starter and curious, with a delicate interest in building user-friendly websites and scalable applications. Anticipating honing skills in a challenging work environment.</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 ### Portfolio
-<a href="https://harishpampana-portfolio.netlify.app/" target="blank"><img align="center" src="https://boss-portal.vistaland.com.ph/wp-content/uploads/2021/10/Portfolio.png" alt="https://harishpampana-portfolio.netlify.app/" height="60" width="120" /></a>
+<p align="left">H̶̡̤͎̖͇̭̳̪͙̝͆̔̋̐́͌̒͆͜͝͝á̴̧͎̱̞̖͙͔̯̻̙̯̙r̶̨͕̘͉̹̣̻̫̣͒͐̋̃͋̒̐̂i̸̧̹̞͍͗̄͌̈̓͗̐̒̈̽̓̈́͑͜͠s̶̢̛̬͔͔̪͍̤͉̦̞͉͚̈́̂͊̆̏̎͂͗̋̔̔́̚͠h̶̲͔̯͙̹̲͇̖̦̲̳́̈́͜ ̵̛̬͇̓̾̈P̸̝̰̫̗̝͚̣̠͍̬̉̈̊̌͊ạ̵̭̮́̿̏̌͆̒̌m̴̗͖͙͇̝̈́̑͗̄͂̔̆p̶̛̣͍͖̟̲͍͖̭̎̐̈́̍̈́̒͐̽͜͝͝ă̵̬̝͉͚͓͕̫̖̖̟͒̓̍̂̈́̈́́̀̇̌̅̚͠͝n̶̫̺̪͍̺͕̲̲͍̦̑̀̒̚͝ͅa̷̡̡͎͓̤͖̗̲̋̆̒͊̾̀̒̕̕͜ͅ<a href="https://harishpampana-portfolio.netlify.app/" target="blank"><img align="center" src="https://boss-portal.vistaland.com.ph/wp-content/uploads/2021/10/Portfolio.png" alt="https://harishpampana-portfolio.netlify.app/" height="60" width="120" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
