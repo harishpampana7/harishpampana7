@@ -3,9 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Portfolio
+<a href="https://harishpampana-portfolio.netlify.app/" target="blank"><img align="center" src="https://sloandesouza.com/wp-content/uploads/2019/10/portfolio.png" alt="https://harishpampana-portfolio.netlify.app/" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
