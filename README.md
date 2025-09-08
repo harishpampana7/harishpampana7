@@ -15,7 +15,7 @@
 
 ### 🌐 Portfolio
 <p align="left">
-  <a href="https://harishpampana-portfolio.netlify.app/" target="blank">
+  <a href="https://harishpampanaportfolio.netlify.app/" target="blank">
     🔗 Visit My Portfolio
   </a>
 </p>
