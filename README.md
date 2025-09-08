@@ -149,8 +149,5 @@ I’m a Front-End Developer with <b>2+ years</b> building responsive, scalable, 
   <a href="https://github.com/harishpampana7" target="_blank"><img src="https://img.shields.io/badge/GitHub-112240?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
 </p>
 
----
-
-<details>
 
         
