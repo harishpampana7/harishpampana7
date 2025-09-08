@@ -11,7 +11,7 @@
 
 <!-- Typing animation tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2800&pause=900&size=22&center=true&vCenter=true&width=1000&color=64FFDA&lines=Front-End+Developer+(Ionic+React%2C+React.js%2C+TypeScript);Cross-Platform+Apps+(Web%2C+iOS%2C+Android);Reusable+UI+Libraries+%7C+RBAC+%7C+REST+APIs;Performance+Optimization+%7C+AI%2FML-Driven+UX" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2800&pause=900&size=22&center=true&vCenter=true&width=1000&color=0a192f&lines=Front-End+Developer+(Ionic+React%2C+React.js%2C+TypeScript);Cross-Platform+Apps+(Web%2C+iOS%2C+Android);Reusable+UI+Libraries+%7C+RBAC+%7C+REST+APIs;Performance+Optimization+%7C+AI%2FML-Driven+UX" alt="typing" />
 </p>
 
 <!-- Social + quick badges -->
@@ -118,14 +118,6 @@ I’m a Front-End Developer with <b>2+ years</b> building responsive, scalable, 
 
 ---
 
-### 🎨 Design System Palette
-- **Navy 900:** `#0a192f` &nbsp;|&nbsp; **Navy 800:** `#112240`  
-- **Cyan (Accent):** `#64ffda` &nbsp;|&nbsp; **Slate:** `#8892b0`  
-- **Text Primary:** `#ccd6f6` &nbsp;|&nbsp; **Text Muted:** `#a8b2d1`
-
-> Reflected in header, badges, and accents for a consistent brand.
-
----
 
 ### 📊 GitHub Stats (Teal-themed)
 <p align="center">
@@ -151,7 +143,7 @@ I’m a Front-End Developer with <b>2+ years</b> building responsive, scalable, 
 
 ### 🔗 Connect
 <p>
-  <a href="mailto:harishpampana7@gmail.com"><img src="https://img.shields.io/badge/Email-112240?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+  <a href="mailto:pampanaharish5@gmail.com"><img src="https://img.shields.io/badge/Email-112240?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
   <a href="https://harishpampanaportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-112240?style=for-the-badge&logo=hyper&logoColor=64FFDA"/></a>
   <a href="https://www.linkedin.com/in/pampana-harish-15b9ba23a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-112240?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
   <a href="https://github.com/harishpampana7" target="_blank"><img src="https://img.shields.io/badge/GitHub-112240?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
@@ -160,45 +152,5 @@ I’m a Front-End Developer with <b>2+ years</b> building responsive, scalable, 
 ---
 
 <details>
-<summary><b>🧪 Tooling Notes & Tips</b></summary>
 
-- Many widgets above (typing SVG, stats, activity graph, trophies) are cached. If they don’t render immediately, refresh once.  
-- Replace `#` placeholders in the Projects grid with actual repo/live links and drop GIFs/screenshots into `/assets`.  
-- For consistent visuals, export screenshots with a navy background (#0a192f) and subtle shadow.
-
-</details>
-
-<details>
-<summary><b>🐍 (Optional) Contribution Snake — enable via GitHub Action</b></summary>
-
-1. Create a new workflow file at `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate snake
-on:
-  schedule:
-    - cron: "0 0 * * *" # daily
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: harishpampana7
-          outputs: dist/snake.svg
-      - uses: actions/upload-artifact@v4
-        with:
-          name: snake
-          path: dist/snake.svg
-      - name: Commit files
-        run: |
-          mkdir -p ./assets
-          cp dist/snake.svg ./assets/github-contribution-snake.svg
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ./assets/github-contribution-snake.svg
-          git commit -m "chore: update contribution snake" || echo "No changes"
-          git push
+        
