@@ -30,7 +30,7 @@ At <b>DBase Solutions Pvt. Ltd.</b> (Hyderabad), I contribute to <b>Enterprise E
 
 ### 🔗 Portfolio & Social
 <p>
-  <a href="https://harishpampana-portfolio.netlify.app/" target="_blank">
+  <a href="https://harishpampanaportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=About.me&logoColor=64FFDA" />
   </a>
   <a href="https://www.linkedin.com/in/pampana-harish-15b9ba23a/" target="_blank">
